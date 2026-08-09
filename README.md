@@ -1,5 +1,7 @@
 # 📊 Retail Sales Analysis Dashboard
 
+**Dashboard Live Video** - https://drive.google.com/file/d/1KmWNBXIlzwVDiw9KCy8l7GEf9MmMOSIq/view
+
 ## 📊 Project Overview
 
 The **Retail Sales Analysis Dashboard** is an interactive Power BI project designed to analyze retail sales performance and profitability. The dashboard provides insights into **revenue, profit, transactions, customers, products, and regional performance**.
@@ -101,11 +103,3 @@ The dashboard provides analysis of:
 ---
 
 
-
-### Main Dashboard
-
-![Retail Sales Dashboard](Screenshots/dashboard.png)
-
-
-
-![Data Model](Screenshots/data-model.png)
