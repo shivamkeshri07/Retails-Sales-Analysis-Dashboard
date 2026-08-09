@@ -9,10 +9,11 @@ The **Retail Sales Analysis Dashboard** is an interactive Power BI project desig
 
 ## 🔗 Project Links
 
-**Dashboard Live Video** - https://drive.google.com/file/d/1KmWNBXIlzwVDiw9KCy8l7GEf9MmMOSIq/view
-**📊 Power BI File** - https://drive.google.com/file/d/1li7RAdPti2Gru7D7gsfLSZhaoQdwSYE9/view?usp=sharing
+- 🎥 **Dashboard Live Video:** [Watch Dashboard Demo](https://drive.google.com/file/d/1KmWNBXIlzwVDiw9KCy8l7GEf9MmMOSIq/view)
+- 📊 **Power BI File:** [Download PBIX File](https://drive.google.com/file/d/1li7RAdPti2Gru7D7gsfLSZhaoQdwSYE9/view?usp=sharing)
 
 
+---
 
 ## 🎯 Business Objective
 
