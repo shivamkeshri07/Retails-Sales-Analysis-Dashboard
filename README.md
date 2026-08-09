@@ -41,7 +41,6 @@ This dashboard provides a centralized view to:
 - **Power Query** – Data Cleaning & Transformation
 - **DAX** – KPIs & Measures
 - **Excel / CSV** – Source Data
-- **GitHub** – Project Documentation
 
 ---
 
